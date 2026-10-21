@@ -1,0 +1,28 @@
+PRODUCT: Masala Trolley
+SLUG: masala-trolley
+ITEM CODE: SAG-BH07
+FAMILY: serving
+PHOTO: /products/serving/masala-trolley.png
+
+DESCRIPTION:
+Commercial stainless steel trolley for hygienic storage and handling of spices and masalas.
+
+SPECIFICATIONS:
+Made of Stainless Steel
+12 Nos stainless steel 1/6 x 150 mm GN pans with lids
+SS handle
+Heavy-duty swivel castors
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Main body
+- Storage compartment
+- Supporting frame
+- Castors or feet
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

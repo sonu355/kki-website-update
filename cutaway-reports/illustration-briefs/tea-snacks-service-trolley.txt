@@ -1,0 +1,29 @@
+PRODUCT: Tea Snacks Service Trolley
+SLUG: tea-snacks-service-trolley
+ITEM CODE: SAG-BH07
+FAMILY: serving
+PHOTO: /products/serving/tea-snacks-service-trolley.png
+
+DESCRIPTION:
+Stainless steel trolley for serving tea and snacks in industrial canteens, hospitals and plants.
+
+SPECIFICATIONS:
+4 Nos GN 1/1 x 150 deep pans with lids
+2 Nos trays for tea cups
+6 Nos side napkin pockets
+Folding dustbin
+Heavy-duty swivel castors with brakes
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Main body
+- Storage compartment
+- Supporting frame
+- Castors or feet
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

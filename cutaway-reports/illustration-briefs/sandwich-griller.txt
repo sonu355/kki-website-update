@@ -1,0 +1,28 @@
+PRODUCT: Sandwich Griller
+SLUG: sandwich-griller
+ITEM CODE: SAG-SG4-A / SAG-SG4-B
+FAMILY: griller
+PHOTO: /products/cooking/sandwich-griller.png
+
+DESCRIPTION:
+Commercial single sandwich griller for professional kitchens and snack service.
+
+SPECIFICATIONS:
+SAG-SG4-A: 11" x 15" x 8"
+Power: 2.0 kW
+SAG-SG4-B: 14" x 17" x 8"
+Power: 3.0 kW
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Upper grilling plate
+- Lower grilling plate
+- Handle
+- Temperature control
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

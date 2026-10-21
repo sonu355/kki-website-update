@@ -1,0 +1,18 @@
+{
+  "totalProducts": 28,
+  "withCutawayImage": 4,
+  "withoutCutawayImage": 24,
+  "withHotspotJson": 1,
+  "families": [
+    "gas-range",
+    "fryer",
+    "griller",
+    "preparation-machine",
+    "fabrication",
+    "grinder",
+    "bakery-mixer",
+    "refrigeration",
+    "serving",
+    "dishwasher"
+  ]
+}

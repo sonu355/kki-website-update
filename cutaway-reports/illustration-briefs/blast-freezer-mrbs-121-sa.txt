@@ -1,0 +1,28 @@
+PRODUCT: Blast Freezer
+SLUG: blast-freezer-mrbs-121-sa
+ITEM CODE: MRBS-121-SA
+FAMILY: refrigeration
+PHOTO: /products/storage/blast-freezer-mrbs-121-sa.png
+
+DESCRIPTION:
+Commercial blast freezer designed for GN tray applications.
+
+SPECIFICATIONS:
+Dimension: 790 x 870 x 1810 mm
+Capacity: 16 x GN 1/1-40 or 12 x GN 1/1-65
+Refrigerant: R290
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Cabinet
+- Door and gasket
+- Interior shelves
+- Temperature controller
+- Refrigeration assembly
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

@@ -1,0 +1,37 @@
+{
+  "product": "Vegetable Cutting Machine",
+  "slug": "vegetable-cutting-machine",
+  "family": "fabrication",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Tabletop",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Supporting frame",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Legs",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Bracing",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

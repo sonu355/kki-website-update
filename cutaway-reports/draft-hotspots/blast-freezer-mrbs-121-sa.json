@@ -1,0 +1,44 @@
+{
+  "product": "Blast Freezer",
+  "slug": "blast-freezer-mrbs-121-sa",
+  "family": "refrigeration",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Cabinet",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Door and gasket",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Interior shelves",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Temperature controller",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 5,
+      "name": "Refrigeration assembly",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

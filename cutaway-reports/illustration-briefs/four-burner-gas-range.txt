@@ -1,0 +1,32 @@
+PRODUCT: Four Burner Gas Range
+SLUG: four-burner-gas-range
+ITEM CODE: SAG-H04-A / SAG-H04-B
+FAMILY: gas-range
+PHOTO: /products/cooking/four-burner-gas-range.png
+
+DESCRIPTION:
+Four burner heavy-duty commercial gas range manufactured for continuous professional kitchen service.
+
+SPECIFICATIONS:
+SAG-H04-A: 36" x 36" x 34" + 4"
+Burner: G-9, 40000 BTU/Hr
+CI Grill: 12" x 12"
+SAG-H04-B: 30" x 30" x 34" + 4"
+Burner: G-10, 40000 BTU/Hr
+CI Grill: 10" x 10"
+Gas Consumption: 0.9 Kg/Hr
+AISI 304 stainless steel
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Burner assembly
+- Cast iron grate
+- Control knob
+- Drip tray
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

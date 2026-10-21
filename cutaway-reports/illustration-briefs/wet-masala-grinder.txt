@@ -1,0 +1,27 @@
+PRODUCT: Wet Masala Grinder
+SLUG: wet-masala-grinder
+ITEM CODE: SAG-BH07
+FAMILY: grinder
+PHOTO: /products/preparation/wet-masala-grinder.png
+
+DESCRIPTION:
+Commercial stainless steel grinder for Indian spices and rava preparation.
+
+SPECIFICATIONS:
+Made of Stainless Steel
+Designed for commercial grinding applications
+Heavy-duty construction
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Motor housing
+- Processing assembly
+- Product container
+- Control panel
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

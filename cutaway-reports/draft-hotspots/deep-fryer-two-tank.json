@@ -1,0 +1,37 @@
+{
+  "product": "Deep Fryer Two Tank",
+  "slug": "deep-fryer-two-tank",
+  "family": "fryer",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Frying tank",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Basket",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Temperature control",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Drain assembly",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+PRODUCT: Dough Kneading Machine
+SLUG: dough-kneading-machine
+ITEM CODE: SAG01-A / SAG01-B / SAG01-C / SAG01-D
+FAMILY: bakery-mixer
+PHOTO: /products/bakery/dough-kneading-machine.png
+
+DESCRIPTION:
+Commercial dough kneading machine for flour and atta preparation in restaurant kitchens and industrial canteens.
+
+SPECIFICATIONS:
+Models: SAG01-A / SAG01-B / SAG01-C / SAG01-D
+Capacity: 10 / 15 / 20 / 30
+Motor: 1.0 / 1.0 / 1.5 / 1.5 HP
+Voltage: 230V / 230V / 230V / 440V
+Stainless steel bowl and kneading shaft
+Powerful gear-driven operation
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Mixing bowl
+- Mixing tool
+- Safety guard
+- Drive assembly
+- Control panel
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

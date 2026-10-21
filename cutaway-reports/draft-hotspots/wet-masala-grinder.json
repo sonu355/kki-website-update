@@ -1,0 +1,37 @@
+{
+  "product": "Wet Masala Grinder",
+  "slug": "wet-masala-grinder",
+  "family": "grinder",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Motor housing",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Processing assembly",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Product container",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Control panel",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

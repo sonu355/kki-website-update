@@ -1,0 +1,30 @@
+PRODUCT: Water Cooler
+SLUG: water-cooler
+ITEM CODE: SAG-004 Series
+FAMILY: preparation-machine
+PHOTO: /products/serving/water-cooler.png
+
+DESCRIPTION:
+Commercial stainless steel water cooler designed for restaurants, schools and canteens.
+
+SPECIFICATIONS:
+SAG-004-40/80: 40 Ltr cooling, 80 Ltr storage, 430W
+SAG-004-60/120: 60 Ltr cooling, 120 Ltr storage, 680W
+SAG-004-150/150: 150 Ltr cooling, 150 Ltr storage, 1300W
+SAG-004-200/250: 200 Ltr cooling, 250 Ltr storage, 1900W
+SAG-004-300/300: 300 Ltr cooling, 300 Ltr storage, 2100W
+AISI 304 stainless steel internal and external body
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Main housing
+- Motor assembly
+- Processing chamber
+- Controls
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

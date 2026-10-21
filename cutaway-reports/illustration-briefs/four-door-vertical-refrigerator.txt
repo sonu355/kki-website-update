@@ -1,0 +1,33 @@
+PRODUCT: Four Door Vertical Refrigerator
+SLUG: four-door-vertical-refrigerator
+ITEM CODE: SAG-1250
+FAMILY: refrigeration
+PHOTO: /products/storage/four-door-vertical-refrigerator.png
+
+DESCRIPTION:
+Commercial four-door vertical refrigerator with insulated stainless steel construction.
+
+SPECIFICATIONS:
+Capacity: 1250 Ltr
+Supply Voltage: 230V / 1 Phase / 50Hz
+Power: 675W
+External Dimension: 1370 x 800 x 2100 mm
+Operating Temperature: -2 C to +10 C
+60 mm polyurethane insulation
+Self-closing doors
+Digital temperature controller
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Cabinet
+- Door and gasket
+- Interior shelves
+- Temperature controller
+- Refrigeration assembly
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

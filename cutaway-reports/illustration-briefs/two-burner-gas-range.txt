@@ -1,0 +1,34 @@
+PRODUCT: Two Burner Gas Range
+SLUG: two-burner-gas-range
+ITEM CODE: SAG-H02-A / SAG-H02-B
+FAMILY: gas-range
+PHOTO: /products/cooking/two-burner-gas-range.png
+
+DESCRIPTION:
+Heavy-duty two burner commercial gas range designed for professional kitchen cookware.
+
+SPECIFICATIONS:
+SAG-H02-A: 48" x 24" x 34" + 4"
+Burner: G-10, 70000 BTU/Hr
+CI Grill: 16" x 16"
+SAG-H02-B: 48" x 24" x 34" + 4"
+Burner: G-10, 40000 BTU/Hr
+CI Grill: 14" x 14"
+Gas Consumption: 0.9 Kg/Hr
+AISI 304 stainless steel
+Individual control and pilot knob
+Heavy duty cast iron top
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Burner assembly
+- Cast iron grate
+- Control knob
+- Drip tray
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

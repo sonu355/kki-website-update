@@ -1,0 +1,44 @@
+{
+  "product": "Hood Type Dishwasher with Entry and Exit Table",
+  "slug": "hood-type-dishwasher",
+  "family": "dishwasher",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Lifting hood",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Wash chamber",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Dish rack",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Spray assembly",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 5,
+      "name": "Wash pump",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+PRODUCT: Planetary Bakery Mixer
+SLUG: planetary-bakery-mixer
+ITEM CODE: SAG09 Series
+FAMILY: bakery-mixer
+PHOTO: /products/bakery/planetary-bakery-mixer.png
+
+DESCRIPTION:
+Industrial planetary mixer designed for continuous preparation of dough and other food products.
+
+SPECIFICATIONS:
+Bowl Capacity: 7.5 / 10 / 20 / 28 / 38 / 60 Ltr
+Motor: 0.32 / 0.6 / 1.1 / 1.5 / 1.5 / 2.2 kW
+Voltage: 230V models and 440V-3P for 60 Ltr model
+Stainless steel bowl
+Powerful gear drive
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Mixing bowl
+- Mixing tool
+- Safety guard
+- Drive assembly
+- Control panel
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

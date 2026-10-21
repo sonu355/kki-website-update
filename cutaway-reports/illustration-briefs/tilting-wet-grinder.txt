@@ -1,0 +1,30 @@
+PRODUCT: Tilting Wet Grinder
+SLUG: tilting-wet-grinder
+ITEM CODE: SAG02-A / SAG02-B / SAG02-C
+FAMILY: grinder
+PHOTO: /products/preparation/tilting-wet-grinder.png
+
+DESCRIPTION:
+Commercial tilting wet grinder for grinding Indian spices and rava used for dosa preparation.
+
+SPECIFICATIONS:
+Capacity: 7 / 10 / 15 Kg
+Motor: 1.0 / 1.0 / 1.5 HP
+Voltage: 230V / 230V / 230-440V
+Stainless steel frame and motor housing
+Detachable granite roller assembly
+Tilting system locks at approximately 100 degrees
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Motor housing
+- Processing assembly
+- Product container
+- Control panel
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

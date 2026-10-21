@@ -1,0 +1,32 @@
+PRODUCT: Single Burner Gas Range
+SLUG: single-burner-gas-range
+ITEM CODE: SAG-H01
+FAMILY: gas-range
+PHOTO: /products/cooking/single-burner-gas-range.png
+
+DESCRIPTION:
+Commercial single burner gas range designed for professional kitchen cooking applications.
+
+SPECIFICATIONS:
+Dimension: 24" x 24" x 34" + 4"
+Burner: G-10, 70000 BTU/Hr
+CI Grill: 16" x 16"
+Made of Stainless Steel AISI 304
+LPG / PNG compatible
+Individual control and pilot knob
+Heavy duty cast iron top
+Removable drip tray
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Burner assembly
+- Cast iron grate
+- Control knob
+- Drip tray
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

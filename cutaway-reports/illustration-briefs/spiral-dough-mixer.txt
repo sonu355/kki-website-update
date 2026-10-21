@@ -1,0 +1,30 @@
+PRODUCT: Spiral Dough Mixer
+SLUG: spiral-dough-mixer
+ITEM CODE: SAG08-A / SAG08-B / SAG06-C
+FAMILY: bakery-mixer
+PHOTO: /products/bakery/spiral-dough-mixer.png
+
+DESCRIPTION:
+Spiral dough mixer designed for bakeries and public catering enterprises.
+
+SPECIFICATIONS:
+Bowl Capacity: 28 Ltr (1 speed) / 45 Ltr (2 speed) / 66 Ltr (2 speed)
+Motor: 1.7 / 2.0 / 3.5 kW
+Voltage: 230V / 440V-3P / 440V-3P
+Stainless steel spiral and bowl
+Manual and digital controls available
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Mixing bowl
+- Mixing tool
+- Safety guard
+- Drive assembly
+- Control panel
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

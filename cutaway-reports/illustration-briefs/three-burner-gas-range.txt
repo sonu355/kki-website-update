@@ -1,0 +1,30 @@
+PRODUCT: Three Burner Gas Range
+SLUG: three-burner-gas-range
+ITEM CODE: SAG-H03-A / SAG-H03-B
+FAMILY: gas-range
+PHOTO: /products/cooking/three-burner-gas-range.png
+
+DESCRIPTION:
+Three burner commercial gas range designed for high-volume professional cooking.
+
+SPECIFICATIONS:
+Dimension: 48" x 24" x 34" + 4"
+SAG-H03-A: G-10, 70000 BTU/Hr, CI Grill 16" x 16", Gas Consumption 1.6 Kg/Hr
+SAG-H03-B: G-10, 70000 BTU/Hr, CI Grill 14" x 14", Gas Consumption 0.9 Kg/Hr
+Made of Stainless Steel AISI 304
+LPG / PNG compatible
+Removable drip tray
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Burner assembly
+- Cast iron grate
+- Control knob
+- Drip tray
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

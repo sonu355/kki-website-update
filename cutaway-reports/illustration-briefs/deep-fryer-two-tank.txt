@@ -1,0 +1,31 @@
+PRODUCT: Deep Fryer Two Tank
+SLUG: deep-fryer-two-tank
+ITEM CODE: SAG-H012-A / SAG-H012-B
+FAMILY: fryer
+PHOTO: /products/cooking/deep-fryer-two-tank.png
+
+DESCRIPTION:
+Commercial fryer designed for fast-food, culinary and confectionery applications in hotels, canteens and institutional kitchens.
+
+SPECIFICATIONS:
+SAG-H012-A: 28" x 30" x 34" + 4"
+Twin Tank: 8 Ltr each
+SAG-H012-B: 16" x 30" x 34" + 4"
+Single Tank: 8 Ltr
+Temperature Range: +20 C to +190 C
+Auto timer and temperature controller
+Bottom drain system
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Frying tank
+- Basket
+- Temperature control
+- Drain assembly
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

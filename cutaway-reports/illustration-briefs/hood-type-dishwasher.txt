@@ -1,0 +1,32 @@
+PRODUCT: Hood Type Dishwasher with Entry and Exit Table
+SLUG: hood-type-dishwasher
+ITEM CODE: RDW4
+FAMILY: dishwasher
+PHOTO: /products/washing/hood-type-dishwasher.png
+
+DESCRIPTION:
+Professional hood-type dishwasher designed for dishes, glasses, cups and cutlery.
+
+SPECIFICATIONS:
+Dimension: 640 x 740 x 1480 mm
+Max Glass Height: 380 mm
+Rack Size: 500 x 500 mm
+Electrical Connection: 400V / 50Hz / 3 Phase
+Water Consumption: 2.5 L/cycle
+Two pumps
+Supports cold or hot water supply
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Lifting hood
+- Wash chamber
+- Dish rack
+- Spray assembly
+- Wash pump
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

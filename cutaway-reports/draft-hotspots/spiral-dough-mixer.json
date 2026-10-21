@@ -1,0 +1,44 @@
+{
+  "product": "Spiral Dough Mixer",
+  "slug": "spiral-dough-mixer",
+  "family": "bakery-mixer",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Mixing bowl",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Mixing tool",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Safety guard",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Drive assembly",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 5,
+      "name": "Control panel",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

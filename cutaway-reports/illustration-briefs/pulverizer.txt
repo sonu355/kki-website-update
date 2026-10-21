@@ -1,0 +1,30 @@
+PRODUCT: Pulverizer
+SLUG: pulverizer
+ITEM CODE: SAG02-A / SAG02-B / SAG02-C / SAG02-D
+FAMILY: preparation-machine
+PHOTO: /products/preparation/pulverizer.png
+
+DESCRIPTION:
+Stainless steel pulverizer used for grinding wet pulses, red chilies, turmeric, black pepper and gravy.
+
+SPECIFICATIONS:
+Models: SAG02-A / SAG02-B / SAG02-C / SAG02-D
+Capacity: 10-15 / 30-35 / 55-60 / 75-80 Kg/Hr
+Motor: 1 HP / 2 HP / 3 HP / 5 HP
+Voltage: 230V / 230V / 230V / 440V
+Stainless steel body
+Five different screen sizes
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Main housing
+- Motor assembly
+- Processing chamber
+- Controls
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

@@ -1,0 +1,54 @@
+
+{
+  "parts": [
+    {
+      "id": 1,
+      "name": "Lifting Hood",
+      "description": "Upper stainless-steel hood that provides access to the washing chamber.",
+      "x": 54,
+      "y": 12
+    },
+    {
+      "id": 2,
+      "name": "Upper Spray Arms",
+      "description": "Spray assemblies illustrated above the dish rack.",
+      "x": 54,
+      "y": 26
+    },
+    {
+      "id": 3,
+      "name": "Dish Rack",
+      "description": "Holds dishes inside the washing chamber.",
+      "x": 52,
+      "y": 45
+    },
+    {
+      "id": 4,
+      "name": "Washing Chamber",
+      "description": "Main compartment where dishes are washed.",
+      "x": 63,
+      "y": 39
+    },
+    {
+      "id": 5,
+      "name": "Wash Pump",
+      "description": "Conceptual illustration of the wash-water circulation pump.",
+      "x": 46,
+      "y": 72
+    },
+    {
+      "id": 6,
+      "name": "Pre-Rinse Sink",
+      "description": "Sink and spray faucet for preparing dishes before washing.",
+      "x": 21,
+      "y": 49
+    },
+    {
+      "id": 7,
+      "name": "Exit Table",
+      "description": "Stainless-steel table for receiving washed dishes.",
+      "x": 82,
+      "y": 48
+    }
+  ]
+}

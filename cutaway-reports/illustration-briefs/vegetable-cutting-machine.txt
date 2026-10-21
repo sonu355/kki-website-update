@@ -1,0 +1,30 @@
+PRODUCT: Vegetable Cutting Machine
+SLUG: vegetable-cutting-machine
+ITEM CODE: SAG06-A
+FAMILY: fabrication
+PHOTO: /products/preparation/vegetable-cutting-machine.png
+
+DESCRIPTION:
+Machine for cutting and slicing fresh and cooked vegetables and fruits in restaurant kitchens and industrial canteens.
+
+SPECIFICATIONS:
+Capacity: 200-250 Kg/Hr
+Motor: 1.0 HP (0.75 kW)
+Voltage: 230V
+Stainless steel body
+High-speed electric motor
+Seven discs for slicing, ripple cutting, grating and stick cutting
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Tabletop
+- Supporting frame
+- Legs
+- Bracing
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

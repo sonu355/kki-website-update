@@ -1,0 +1,29 @@
+PRODUCT: Electric Meat Mincer
+SLUG: electric-meat-mincer
+ITEM CODE: SAG06-A
+FAMILY: preparation-machine
+PHOTO: /products/preparation/electric-meat-mincer.png
+
+DESCRIPTION:
+Commercial stainless steel meat and fish mincer for restaurant kitchens and catering enterprises.
+
+SPECIFICATIONS:
+Capacity: 200-250 Kg/Hr
+Motor: 1.0 HP (0.75 kW)
+Voltage: 230V
+Hopper Diameter: 40 mm
+Includes screw, grater plate, two blades, 9 mm plate and 5 mm plate
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Main housing
+- Motor assembly
+- Processing chamber
+- Controls
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Single Burner Gas Range",
+    "slug": "single-burner-gas-range",
+    "family": "gas-range",
+    "imageReference": "/products/cooking/single-burner-gas-range.png"
+  },
+  {
+    "name": "Two Burner Gas Range",
+    "slug": "two-burner-gas-range",
+    "family": "gas-range",
+    "imageReference": "/products/cooking/two-burner-gas-range.png"
+  },
+  {
+    "name": "Four Burner Gas Range",
+    "slug": "four-burner-gas-range",
+    "family": "gas-range",
+    "imageReference": "/products/cooking/four-burner-gas-range.png"
+  },
+  {
+    "name": "Deep Fryer Two Tank",
+    "slug": "deep-fryer-two-tank",
+    "family": "fryer",
+    "imageReference": "/products/cooking/deep-fryer-two-tank.png"
+  },
+  {
+    "name": "Deep Fat Fryer",
+    "slug": "deep-fat-fryer",
+    "family": "fryer",
+    "imageReference": "/products/cooking/deep-fat-fryer.png"
+  },
+  {
+    "name": "Sandwich Griller",
+    "slug": "sandwich-griller",
+    "family": "griller",
+    "imageReference": "/products/cooking/sandwich-griller.png"
+  },
+  {
+    "name": "Pulverizer",
+    "slug": "pulverizer",
+    "family": "preparation-machine",
+    "imageReference": "/products/preparation/pulverizer.png"
+  },
+  {
+    "name": "Vegetable Cutting Machine",
+    "slug": "vegetable-cutting-machine",
+    "family": "fabrication",
+    "imageReference": "/products/preparation/vegetable-cutting-machine.png"
+  },
+  {
+    "name": "Tilting Wet Grinder",
+    "slug": "tilting-wet-grinder",
+    "family": "grinder",
+    "imageReference": "/products/preparation/tilting-wet-grinder.png"
+  },
+  {
+    "name": "Potato Peeler",
+    "slug": "potato-peeler",
+    "family": "preparation-machine",
+    "imageReference": "/products/preparation/potato-peeler.png"
+  },
+  {
+    "name": "Electric Meat Mincer",
+    "slug": "electric-meat-mincer",
+    "family": "preparation-machine",
+    "imageReference": "/products/preparation/electric-meat-mincer.png"
+  },
+  {
+    "name": "Heavy Duty Industrial Mixer",
+    "slug": "heavy-duty-industrial-mixer",
+    "family": "grinder",
+    "imageReference": "/products/preparation/heavy-duty-industrial-mixer.png"
+  },
+  {
+    "name": "Ice Crusher",
+    "slug": "ice-crusher",
+    "family": "preparation-machine",
+    "imageReference": "/products/preparation/ice-crusher.png"
+  },
+  {
+    "name": "Wet Masala Grinder",
+    "slug": "wet-masala-grinder",
+    "family": "grinder",
+    "imageReference": "/products/preparation/wet-masala-grinder.png"
+  },
+  {
+    "name": "Dough Kneading Machine",
+    "slug": "dough-kneading-machine",
+    "family": "bakery-mixer",
+    "imageReference": "/products/bakery/dough-kneading-machine.png"
+  },
+  {
+    "name": "Spiral Dough Mixer",
+    "slug": "spiral-dough-mixer",
+    "family": "bakery-mixer",
+    "imageReference": "/products/bakery/spiral-dough-mixer.png"
+  },
+  {
+    "name": "Planetary Bakery Mixer",
+    "slug": "planetary-bakery-mixer",
+    "family": "bakery-mixer",
+    "imageReference": "/products/bakery/planetary-bakery-mixer.png"
+  },
+  {
+    "name": "Blast Freezer",
+    "slug": "blast-freezer-mrbs-121-sa",
+    "family": "refrigeration",
+    "imageReference": "/products/storage/blast-freezer-mrbs-121-sa.png"
+  },
+  {
+    "name": "Tea Snacks Service Trolley",
+    "slug": "tea-snacks-service-trolley",
+    "family": "serving",
+    "imageReference": "/products/serving/tea-snacks-service-trolley.png"
+  },
+  {
+    "name": "Electric Plate Warmer",
+    "slug": "electric-plate-warmer",
+    "family": "serving",
+    "imageReference": "/products/serving/electric-plate-warmer.png"
+  },
+  {
+    "name": "Masala Trolley",
+    "slug": "masala-trolley",
+    "family": "serving",
+    "imageReference": "/products/serving/masala-trolley.png"
+  },
+  {
+    "name": "Water Cooler",
+    "slug": "water-cooler",
+    "family": "preparation-machine",
+    "imageReference": "/products/serving/water-cooler.png"
+  },
+  {
+    "name": "Dining Table with Seater",
+    "slug": "dining-table-with-seater",
+    "family": "fabrication",
+    "imageReference": "/products/custom/dining-table-with-seater.png"
+  },
+  {
+    "name": "Work Table with Cross Bracing",
+    "slug": "work-table-cross-bracing",
+    "family": "fabrication",
+    "imageReference": "/products/custom/work-table-cross-bracing.png"
+  }
+]

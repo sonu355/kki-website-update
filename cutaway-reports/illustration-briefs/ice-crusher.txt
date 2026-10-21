@@ -1,0 +1,31 @@
+PRODUCT: Ice Crusher
+SLUG: ice-crusher
+ITEM CODE: SAG15
+FAMILY: preparation-machine
+PHOTO: /products/preparation/ice-crusher.png
+
+DESCRIPTION:
+Commercial electric ice crusher designed for high-volume shaved ice preparation.
+
+SPECIFICATIONS:
+Dimension: 425 x 205 x 320 mm
+Hopper Diameter: 108 mm
+Motor Speed: 1400 RPM
+Power Consumption: 180W
+Drain pipe provided
+Insulated non-slip handle
+Double shaving blades
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Main housing
+- Motor assembly
+- Processing chamber
+- Controls
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

@@ -1,0 +1,30 @@
+PRODUCT: Heavy Duty Industrial Mixer
+SLUG: heavy-duty-industrial-mixer
+ITEM CODE: SAG13
+FAMILY: grinder
+PHOTO: /products/preparation/heavy-duty-industrial-mixer.png
+
+DESCRIPTION:
+Heavy-duty industrial mixer for wet and dry vegetable gravy, grain and nut grinding applications.
+
+SPECIFICATIONS:
+Bowl Capacity: 3.0 / 5.0 Ltr
+Motor: 1.0 HP (0.75 kW) / 1.5 HP (1.0 kW)
+Voltage: 230V
+Easy to clean
+Robust durable construction
+Manual and digital control options
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Motor housing
+- Processing assembly
+- Product container
+- Control panel
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

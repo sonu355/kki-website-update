@@ -1,0 +1,30 @@
+PRODUCT: Under Counter Refrigerator
+SLUG: under-counter-refrigerator
+ITEM CODE: SAG-003A / SAG-003B
+FAMILY: refrigeration
+PHOTO: /products/storage/under-counter-refrigerator.png
+
+DESCRIPTION:
+Stainless steel under-counter refrigerator with forced-air circulation for rapid cooling.
+
+SPECIFICATIONS:
+SAG-003A: 60" x W x 34" + 4", Capacity 300 Ltr, Power 475W
+SAG-003B: 72" x W x 34" + 4", Capacity 400 Ltr, Power 475W
+Available Width: 24" / 27" / 30"
+AISI 304 internal and external panels
+Operating Temperature: -2 C to +10 C
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Cabinet
+- Door and gasket
+- Interior shelves
+- Temperature controller
+- Refrigeration assembly
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

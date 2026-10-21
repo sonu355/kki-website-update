@@ -1,0 +1,26 @@
+{
+  "parts": [
+    { "id": "gn-pans", "label": "GN Pans (Ingredient Bins)", "short": "GN pans", "x": 82, "y": 10,
+      "detail": "Gastronorm (GN) pans that keep ingredients organised and within easy reach along the top rail." },
+    { "id": "pan-holder", "label": "Pan Holder / Top Rail", "short": "Pan holder", "x": 80.5, "y": 23,
+      "detail": "Raised stainless rail that seats the GN pans above the worktop." },
+    { "id": "worktop", "label": "Stainless Steel Worktop", "short": "Worktop", "x": 79, "y": 32.5,
+      "detail": "Stainless steel work surface for preparation, sitting on top of the insulated cabinet." },
+    { "id": "insulation", "label": "Insulation Layer", "short": "Insulation", "x": 81, "y": 40,
+      "detail": "60 mm thick polyurethane insulation for better energy efficiency." },
+    { "id": "cabinet-body", "label": "Cabinet Body (Stainless Steel)", "short": "Cabinet body", "x": 80, "y": 54.5,
+      "detail": "AISI 304 stainless steel internal and external panels." },
+    { "id": "shelves", "label": "Shelves (Adjustable)", "short": "Shelves", "x": 65.3, "y": 60.3,
+      "detail": "4 adjustable stainless steel wire mesh shelves." },
+    { "id": "refrigeration-unit", "label": "Refrigeration Unit (Compressor, Condenser, Fan)", "short": "Refrigeration unit", "x": 21.8, "y": 56.4,
+      "detail": "Forced air circulation gives rapid cooling and an even temperature distribution. Operating temperature is adjustable from -2 C to +10 C; a static-cooling version for -18 C to -20 C is also available." },
+    { "id": "front-panel", "label": "Front Panel (with Controller)", "short": "Front panel", "x": 7.9, "y": 59.8,
+      "detail": "Front panel carrying the controller, with a ventilation grille for the refrigeration unit." },
+    { "id": "door-left", "label": "Door (with Gasket) - left", "short": "Door (left)", "x": 36.6, "y": 84.9,
+      "detail": "Door fitted with a gasket that seals the cabinet." },
+    { "id": "door-right", "label": "Door (with Gasket) - right", "short": "Door (right)", "x": 65.6, "y": 86.8,
+      "detail": "Door fitted with a gasket that seals the cabinet." },
+    { "id": "legs", "label": "Adjustable Legs", "short": "Legs", "x": 75.6, "y": 91,
+      "detail": "Adjustable legs for levelling the unit on uneven floors." }
+  ]
+}

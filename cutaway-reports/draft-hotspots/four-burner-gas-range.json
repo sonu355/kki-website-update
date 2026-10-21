@@ -1,0 +1,37 @@
+{
+  "product": "Four Burner Gas Range",
+  "slug": "four-burner-gas-range",
+  "family": "gas-range",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Burner assembly",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Cast iron grate",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Control knob",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Drip tray",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

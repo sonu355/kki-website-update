@@ -1,0 +1,28 @@
+PRODUCT: Deep Fat Fryer
+SLUG: deep-fat-fryer
+ITEM CODE: SAG-DFF3-A / SAG-DFF3-B
+FAMILY: fryer
+PHOTO: /products/cooking/deep-fat-fryer.png
+
+DESCRIPTION:
+Compact commercial deep fat fryer designed for professional countertop cooking applications.
+
+SPECIFICATIONS:
+SAG-DFF3-A: 11" x 17" x 8"
+Power: 3.0 kW
+SAG-DFF3-B: 8" x 17" x 8"
+Power: 2.0 kW
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Frying tank
+- Basket
+- Temperature control
+- Drain assembly
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

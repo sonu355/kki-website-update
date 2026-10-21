@@ -1,0 +1,28 @@
+PRODUCT: Work Table with Cross Bracing
+SLUG: work-table-cross-bracing
+ITEM CODE: SAG-WT8 Series
+FAMILY: fabrication
+PHOTO: /products/custom/work-table-cross-bracing.png
+
+DESCRIPTION:
+Stainless steel commercial work table with cross bracing for professional kitchen preparation areas.
+
+SPECIFICATIONS:
+SAG-WT8-A: 36" x 24" x 34" + 4"
+SAG-WT8-B: 48" x 24" x 34" + 4"
+SAG-WT8-C: 60" x 24" x 34" + 4"
+SAG-WT8-D: 72" x 24" x 34" + 4"
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Tabletop
+- Supporting frame
+- Legs
+- Bracing
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

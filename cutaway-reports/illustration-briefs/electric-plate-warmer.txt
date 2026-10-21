@@ -1,0 +1,26 @@
+PRODUCT: Electric Plate Warmer
+SLUG: electric-plate-warmer
+ITEM CODE: SAG-BH09-A / SAG-BH09-B
+FAMILY: serving
+PHOTO: /products/serving/electric-plate-warmer.png
+
+DESCRIPTION:
+Mobile electric plate warmer designed to safely heat and hold crockery for professional food service.
+
+SPECIFICATIONS:
+SAG-BH09-A: 18" x 36" x 30", Double Holder Cart
+SAG-BH09-B: 18" x 19" x 30", 50 Plate Single Holder Cart
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Main body
+- Storage compartment
+- Supporting frame
+- Castors or feet
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.

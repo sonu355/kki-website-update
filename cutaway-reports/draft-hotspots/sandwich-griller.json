@@ -1,0 +1,37 @@
+{
+  "product": "Sandwich Griller",
+  "slug": "sandwich-griller",
+  "family": "griller",
+  "reviewStatus": "draft",
+  "note": "Verify components and set x/y percentages after approving the illustration.",
+  "parts": [
+    {
+      "id": 1,
+      "name": "Upper grilling plate",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 2,
+      "name": "Lower grilling plate",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 3,
+      "name": "Handle",
+      "description": "",
+      "x": null,
+      "y": null
+    },
+    {
+      "id": 4,
+      "name": "Temperature control",
+      "description": "",
+      "x": null,
+      "y": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+PRODUCT: Dining Table with Seater
+SLUG: dining-table-with-seater
+ITEM CODE: SAG-WT6-A
+FAMILY: fabrication
+PHOTO: /products/custom/dining-table-with-seater.png
+
+DESCRIPTION:
+Stainless steel dining table with integrated seating for institutional dining applications.
+
+SPECIFICATIONS:
+48" x 36" x 32": 4 seats
+72" x 36" x 32": 6 seats
+96" x 36" x 32": 8 seats
+
+SUGGESTED COMPONENTS TO REVIEW:
+- Tabletop
+- Supporting frame
+- Legs
+- Bracing
+
+ILLUSTRATION INSTRUCTIONS:
+Create a conceptual product-specific cutaway.
+Use the actual catalogue photograph as reference.
+Show only technically plausible components.
+Do not invent model-specific specifications.
+Do not claim the internals are engineering-verified.
+Keep the main product centered and labels legible.
